@@ -1,0 +1,14 @@
+pandas
+tensorflow
+keras
+matplotlib
+numpy
+opencv-python
+plotly
+torch
+scikit-learn
+scipy
+seaborn
+tclab
+xgboost
+
